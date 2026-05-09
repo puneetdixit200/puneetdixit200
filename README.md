@@ -1,24 +1,114 @@
-# 💫 About Me:
-🌱 I’m currently learning AIML.<br>When you finally train your model for 10 hours and realize you forgot to normalize the data.
+# Puneet Dixit
 
+**AI/ML + Full-Stack Developer | B.E. CSE @ RVITM, Bengaluru**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneetdixit2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.puneetdixit@gmail.com) 
+I build ML-backed web apps, dashboards, and backend APIs where models, databases, and clean user workflows work together. My strongest work sits around AI/ML products, healthcare systems, fintech APIs, and practical automation.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PUNEETDIXIT2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PUNEETDIXIT2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PUNEETDIXIT2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[Portfolio / Resume](https://resume-one-mocha-99.vercel.app) | [LinkedIn](https://linkedin.com/in/puneetdixit2004) | [GitHub](https://github.com/puneetdixit200) | [Email](mailto:mr.puneetdixit@gmail.com) | Phone: +91-9569965462
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PUNEETDIXIT2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## What I Am Building Toward
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- AI/ML applications with real dashboards, APIs, and deployable user flows.
+- Full-stack products using React, Tailwind CSS, FastAPI, Node.js, Express, and databases.
+- Backend systems for payments, reconciliation, authentication, reporting, and audit trails.
+- Open-source contributions in developer tools, CLI workflows, docs, and UX improvements.
 
----
-[![](https://visitcount.itsvg.in/api?id=PUNEETDIXIT2004&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | Tools and Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, PHP |
+| AI / ML | XGBoost, scikit-learn, Pandas, NumPy, model inference APIs, anomaly detection |
+| Frontend | React, Vite, Tailwind CSS, React Router, Recharts, Chart.js |
+| Backend | Node.js, Express, FastAPI, REST APIs, JWT auth, Prisma, Mongoose |
+| Databases / Cloud | PostgreSQL, MongoDB, Redis, Docker, Vercel, Google Cloud Run, Azure Blob Storage |
+| Tools | Git, GitHub, Postman, VS Code, Figma |
+
+## Featured Projects
+
+### Hydroponic Plant Health Prediction System
+
+Full-stack ML application that predicts hydroponic plant health, yield, disease risk, and environmental recommendations from pH, EC/TDS, temperature, humidity, and plant symptom inputs.
+
+- **Stack:** Python, FastAPI, XGBoost, Pandas, NumPy, React, Vite, Tailwind CSS, Recharts, Docker
+- **Highlights:** 5 trained/validated ML models, real-time prediction dashboard, environmental recommendation engine
+- **Repo:** [hydrophonic-ML](https://github.com/puneetdixit200/hydrophonic-ML)
+
+### Telemedicine Rural App
+
+Production-style telemedicine platform designed for mixed-connectivity and rural-first healthcare workflows.
+
+- **Stack:** Node.js, Express, Prisma, PostgreSQL, React, Vite, React Router, Socket.IO, Azure Blob Storage, JWT
+- **Highlights:** role-based patient/doctor/help-worker/admin workflows, real-time consultation support, prescriptions, pharmacy, lab, reminders, documents, and secure access controls
+- **Repo:** [telemedicine](https://github.com/puneetdixit200/telemedicine)
+
+### HospAI - Hospital Management and Prediction System
+
+AI-powered hospital dashboard for admission forecasting, bed/resource analytics, and ML-driven operational predictions.
+
+- **Stack:** FastAPI, React, Tailwind CSS, XGBoost, MongoDB, Docker
+- **Highlights:** admission forecasting, ICU/non-ICU bed prediction, stay-duration estimation, resource analytics dashboard
+- **Repo:** [hospai](https://github.com/puneetdixit200/hospai)
+
+### Payment Settlement and Reconciliation System
+
+Fintech backend + dashboard project for merchant settlement cycles, reconciliation, transaction matching, dispute detection, and reporting.
+
+- **Stack:** Node.js, Express, PostgreSQL, Prisma, React, Vite, Tailwind CSS, Jest
+- **Highlights:** T+0/T+1/T+2 settlement cycles, double-entry ledger, batch processing, reconciliation engine, PDF/JSON reports
+- **Repo:** [payment-settlement-system](https://github.com/puneetdixit200/payment-settlement-system)
+
+### Multi-Currency Payment Processing API
+
+Payment platform for merchant workflows, multi-currency transfers, request-money flows, transaction approvals, fees, audit trails, and high-value alerts.
+
+- **Stack:** Node.js, Express, MongoDB, Mongoose, JWT, React, Vite, Tailwind CSS, Recharts, Docker
+- **Highlights:** real-time FX-style workflows, idempotent transactions, role-based auth, audit logging, rate limiting, settlement batches
+- **Repo:** [Multi-Currency-Payment-Processing-API](https://github.com/puneetdixit200/Multi-Currency-Payment-Processing-API)
+
+## More Projects
+
+| Project | What it shows | Link |
+| --- | --- | --- |
+| Certificate Generator | Python automation for generating named PDF certificates from templates and CSV input | [certificate-generator-](https://github.com/puneetdixit200/certificate-generator-) |
+| Portfolio / Resume Site | Personal portfolio with resume, projects, bio-data, and contact sections | [resume](https://github.com/puneetdixit200/resume) |
+| Online Registration Web App | HTML/CSS/JavaScript registration UI with PHP backend validation and Docker setup | [php-project](https://github.com/puneetdixit200/php-project) |
+| Next.js Practice | TypeScript + Next.js learning project for App Router and modern React patterns | [next-practice](https://github.com/puneetdixit200/next-practice) |
+
+## Open Source Contributions
+
+I separate merged work from PRs still under review so the contribution story stays accurate.
+
+**Merged PRs**
+
+- [lemon24/reader #399](https://github.com/lemon24/reader/pull/399) - added a `--json` option to list CLI commands.
+- [firstcontributions/first-contributions #116376](https://github.com/firstcontributions/first-contributions/pull/116376) - added myself to the contributors list as part of the open-source onboarding flow.
+
+**Open PRs / Under Review**
+
+- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - configurable workday hours for Gantt hour durations.
+- [netlify/cli #8234](https://github.com/netlify/cli/pull/8234) - shell-operator support for the dev command workflow.
+
+## Leadership and Achievements
+
+- Head, Competitive Coding Club - organized monthly coding activities and mentored algorithmic problem-solving.
+- Head, Robotics Club and Head, RVITM Cubing Association - led technical communities and event execution.
+- Finance and Co-Head, Tech Fest 2025 - handled sponsorship acquisition, budgeting, and large-scale coordination.
+- 1st Place, Healthcare - SynthHack DSATM National Hackathon.
+- 2nd Place, Business Plan - RVITM Wadhwani Ignite Bootcamp.
+- 1st Place, Best Manager - VTU Fest.
+- Runner-up, Creative Campaign / Mad Ads - BMS College Utsav.
+
+## Currently Exploring
+
+- Stronger AI/ML systems with model APIs, dashboards, and production-style deployment.
+- Blockchain and EVM fundamentals from scratch.
+- React + Tailwind CSS through project-based learning.
+- Robotics, automation, ARM architecture, and embedded systems fundamentals.
+
+## GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=puneetdixit200&theme=github_dark" alt="Puneet Dixit's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puneetdixit200&theme=github_dark" alt="Puneet Dixit's top languages" />
+</p>
