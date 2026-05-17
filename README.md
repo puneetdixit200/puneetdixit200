@@ -55,16 +55,17 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [lemon24/reader #399](https://github.com/lemon24/reader/pull/399) - added a JSON output option to the `list` CLI command. _(538 stars)_
+- [lemon24/reader #399](https://github.com/lemon24/reader/pull/399) - Add --json option to list CLI commands. _(538 stars)_
+- [rvit25bai069rvitm-a11y/TechTOKENheist #1](https://github.com/rvit25bai069rvitm-a11y/TechTOKENheist/pull/1) - feat: update wager mode event controls. _(0 stars)_
 
 **Open / Under Review**
 
 - [huggingface/transformers #46003](https://github.com/huggingface/transformers/pull/46003) - Fix DeepSeekV4 compressor padding masks. _(160.7k stars)_
-- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - configurable workday hours for Gantt hour durations. _(88.1k stars)_
-- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - render state diagram click tooltips. _(88.1k stars)_
-- [dapr/dapr #9969](https://github.com/dapr/dapr/pull/9969) - wait for workflow actor registration in integration tests. _(25.8k stars)_
-- [biomejs/biome #10391](https://github.com/biomejs/biome/pull/10391) - format Vue interpolation snippets in the HTML formatter. _(24.7k stars)_
-- [vercel/vercel #16348](https://github.com/vercel/vercel/pull/16348) - fix CLI punycode warning during launcher bootstrap. _(15.5k stars)_
+- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.1k stars)_
+- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.1k stars)_
+- [scrapy/scrapy #7528](https://github.com/scrapy/scrapy/pull/7528) - Use Twisted default TLS ciphers for None setting. _(61.7k stars)_
+- [dapr/dapr #9969](https://github.com/dapr/dapr/pull/9969) - tests: wait for workflow actor registration. _(25.8k stars)_
+- [biomejs/biome #10391](https://github.com/biomejs/biome/pull/10391) - fix(html_formatter): format Vue interpolation snippets. _(24.7k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
