@@ -77,7 +77,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(99.7k stars)_
-- [heygen-com/hyperframes #917](https://github.com/heygen-com/hyperframes/pull/917) - fix: hold external sub-compositions through host duration. _(19.0k stars)_
+- [heygen-com/hyperframes #917](https://github.com/heygen-com/hyperframes/pull/917) - fix: hold external sub-compositions through host duration. _(19.1k stars)_
 - [apache/seatunnel #10893](https://github.com/apache/seatunnel/pull/10893) - [Bug] [Connector-V2] Fix Milvus sink collection_name target handling. _(9.3k stars)_
 
 **Open / Under Review**
