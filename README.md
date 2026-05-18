@@ -22,6 +22,17 @@
 
 ---
 
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" alt="Core stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" alt="Frontend and tools icons" />
+</p>
+
+<hr>
+
 ## GitHub Dashboard
 
 <p align="center">
@@ -36,6 +47,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetdixit200&theme=github-compact&hide_border=true&area=true" alt="Puneet Dixit's contribution graph" />
 </p>
+
+## My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneetdixit200/puneetdixit200/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneetdixit200/puneetdixit200/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/puneetdixit200/puneetdixit200/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
