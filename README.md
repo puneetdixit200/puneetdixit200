@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(99.7k stars)_
-- [heygen-com/hyperframes #917](https://github.com/heygen-com/hyperframes/pull/917) - fix: hold external sub-compositions through host duration. _(19.5k stars)_
+- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(99.8k stars)_
+- [heygen-com/hyperframes #917](https://github.com/heygen-com/hyperframes/pull/917) - fix: hold external sub-compositions through host duration. _(19.8k stars)_
 - [apache/seatunnel #10893](https://github.com/apache/seatunnel/pull/10893) - [Bug] [Connector-V2] Fix Milvus sink collection_name target handling. _(9.3k stars)_
 
 **Open / Under Review**
 
-- [kubernetes/kubernetes #139118](https://github.com/kubernetes/kubernetes/pull/139118) - Handle cancelled pod sandbox creation. _(122.3k stars)_
-- [neovim/neovim #39843](https://github.com/neovim/neovim/pull/39843) - fix(ex_cmds): improve E77 glob expansion message. _(99.7k stars)_
-- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.1k stars)_
-- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.1k stars)_
+- [kubernetes/kubernetes #139118](https://github.com/kubernetes/kubernetes/pull/139118) - Handle cancelled pod sandbox creation. _(122.4k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(103.5k stars)_
+- [neovim/neovim #39843](https://github.com/neovim/neovim/pull/39843) - fix(ex_cmds): improve E77 glob expansion message. _(99.8k stars)_
+- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.2k stars)_
+- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.2k stars)_
 - [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(72.9k stars)_
-- [milvus-io/milvus #49866](https://github.com/milvus-io/milvus/pull/49866) - fix: count JSON and dynamic search aggregation metrics. _(44.4k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
