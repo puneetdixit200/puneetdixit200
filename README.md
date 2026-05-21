@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(99.8k stars)_
-- [heygen-com/hyperframes #917](https://github.com/heygen-com/hyperframes/pull/917) - fix: hold external sub-compositions through host duration. _(19.8k stars)_
-- [apache/seatunnel #10893](https://github.com/apache/seatunnel/pull/10893) - [Bug] [Connector-V2] Fix Milvus sink collection_name target handling. _(9.3k stars)_
+- [promptfoo/promptfoo #9322](https://github.com/promptfoo/promptfoo/pull/9322) - feat(eval): support runtime tags. _(21.4k stars)_
+- [nasa/fprime #5176](https://github.com/nasa/fprime/pull/5176) - Fix TlmPacketizer ENABLE_SECTION command comment. _(10.9k stars)_
+- [nasa/fprime #5177](https://github.com/nasa/fprime/pull/5177) - Fw: Types, fix serialize size left assert. _(10.9k stars)_
 
 **Open / Under Review**
 
-- [kubernetes/kubernetes #139118](https://github.com/kubernetes/kubernetes/pull/139118) - Handle cancelled pod sandbox creation. _(122.4k stars)_
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(103.5k stars)_
-- [neovim/neovim #39843](https://github.com/neovim/neovim/pull/39843) - fix(ex_cmds): improve E77 glob expansion message. _(99.8k stars)_
-- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.2k stars)_
-- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.2k stars)_
-- [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(72.9k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(104.2k stars)_
+- [nuxt/nuxt #35135](https://github.com/nuxt/nuxt/pull/35135) - fix(nitro): avoid Object.hasOwn in dev overlay. _(60.3k stars)_
+- [milvus-io/milvus #49866](https://github.com/milvus-io/milvus/pull/49866) - fix: count JSON and dynamic search aggregation metrics. _(44.4k stars)_
+- [gradio-app/gradio #13407](https://github.com/gradio-app/gradio/pull/13407) - fix: support point-cloud Model3D files. _(42.6k stars)_
+- [istio/istio #60291](https://github.com/istio/istio/pull/60291) - Keep BackendTLSPolicy ConfigMap SDS names recoverable. _(38.2k stars)_
+- [directus/directus #27528](https://github.com/directus/directus/pull/27528) - fix(api): avoid update by empty flow keys 🤖🤖🤖. _(35.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
