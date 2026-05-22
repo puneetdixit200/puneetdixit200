@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [promptfoo/promptfoo #9322](https://github.com/promptfoo/promptfoo/pull/9322) - feat(eval): support runtime tags. _(21.4k stars)_
-- [nasa/fprime #5176](https://github.com/nasa/fprime/pull/5176) - Fix TlmPacketizer ENABLE_SECTION command comment. _(10.9k stars)_
-- [nasa/fprime #5177](https://github.com/nasa/fprime/pull/5177) - Fw: Types, fix serialize size left assert. _(10.9k stars)_
+- [sveltejs/svelte #18269](https://github.com/sveltejs/svelte/pull/18269) - fix: remove raw-text hydration markers. _(86.6k stars)_
+- [ajeetdsouza/zoxide #1241](https://github.com/ajeetdsouza/zoxide/pull/1241) - fix: skip zsh doctor in non-interactive shells. _(36.8k stars)_
+- [unocss/unocss #5207](https://github.com/unocss/unocss/pull/5207) - fix(cli): keep logs off stdout. _(18.8k stars)_
 
 **Open / Under Review**
 
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(104.2k stars)_
-- [nuxt/nuxt #35135](https://github.com/nuxt/nuxt/pull/35135) - fix(nitro): avoid Object.hasOwn in dev overlay. _(60.3k stars)_
-- [milvus-io/milvus #49866](https://github.com/milvus-io/milvus/pull/49866) - fix: count JSON and dynamic search aggregation metrics. _(44.4k stars)_
-- [gradio-app/gradio #13407](https://github.com/gradio-app/gradio/pull/13407) - fix: support point-cloud Model3D files. _(42.6k stars)_
-- [istio/istio #60291](https://github.com/istio/istio/pull/60291) - Keep BackendTLSPolicy ConfigMap SDS names recoverable. _(38.2k stars)_
-- [directus/directus #27528](https://github.com/directus/directus/pull/27528) - fix(api): avoid update by empty flow keys 🤖🤖🤖. _(35.8k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(124.5k stars)_
+- [shadcn-ui/ui #10721](https://github.com/shadcn-ui/ui/pull/10721) - fix(toggle-group): preserve segmented zero spacing. _(114.8k stars)_
+- [axios/axios #10928](https://github.com/axios/axios/pull/10928) - fix(fetch): align timeout errors with other adapters. _(109.1k stars)_
+- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.0k stars)_
+- [angular/angular #68869](https://github.com/angular/angular/pull/68869) - fix(devtools): handle null-prototype object previews. _(100.1k stars)_
+- [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - fix(lsp): deduplicate location results. _(99.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
