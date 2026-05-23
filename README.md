@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [sveltejs/svelte #18269](https://github.com/sveltejs/svelte/pull/18269) - fix: remove raw-text hydration markers. _(86.6k stars)_
-- [ajeetdsouza/zoxide #1241](https://github.com/ajeetdsouza/zoxide/pull/1241) - fix: skip zsh doctor in non-interactive shells. _(36.8k stars)_
-- [unocss/unocss #5207](https://github.com/unocss/unocss/pull/5207) - fix(cli): keep logs off stdout. _(18.8k stars)_
+- [ReactiveX/RxJava #8120](https://github.com/ReactiveX/RxJava/pull/8120) - test: simplify SingleRetryTest callables. _(48.3k stars)_
+- [psf/black #5148](https://github.com/psf/black/pull/5148) - Fix docstring indentation with leading tabs. _(41.5k stars)_
+- [psf/black #5147](https://github.com/psf/black/pull/5147) - Fix case guard splitting at small line lengths. _(41.5k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(124.5k stars)_
-- [shadcn-ui/ui #10721](https://github.com/shadcn-ui/ui/pull/10721) - fix(toggle-group): preserve segmented zero spacing. _(114.8k stars)_
-- [axios/axios #10928](https://github.com/axios/axios/pull/10928) - fix(fetch): align timeout errors with other adapters. _(109.1k stars)_
-- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.0k stars)_
-- [angular/angular #68869](https://github.com/angular/angular/pull/68869) - fix(devtools): handle null-prototype object previews. _(100.1k stars)_
+- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(105.1k stars)_
 - [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - fix(lsp): deduplicate location results. _(99.8k stars)_
+- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(88.2k stars)_
+- [nestjs/nest #17009](https://github.com/nestjs/nest/pull/17009) - fix(core): reset dependency-tree cache on metadata changes. _(75.6k stars)_
+- [caddyserver/caddy #7766](https://github.com/caddyserver/caddy/pull/7766) - caddyhttp: let dotted dynamic placeholders fall through. _(72.7k stars)_
+- [socketio/socket.io #5501](https://github.com/socketio/socket.io/pull/5501) - fix(engine.io-client): preserve caller transport options. _(63.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
