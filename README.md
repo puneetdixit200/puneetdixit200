@@ -76,15 +76,15 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [ReactiveX/RxJava #8120](https://github.com/ReactiveX/RxJava/pull/8120) - test: simplify SingleRetryTest callables. _(48.3k stars)_
-- [psf/black #5148](https://github.com/psf/black/pull/5148) - Fix docstring indentation with leading tabs. _(41.5k stars)_
-- [psf/black #5147](https://github.com/psf/black/pull/5147) - Fix case guard splitting at small line lengths. _(41.5k stars)_
+- [getmaxun/maxun #1067](https://github.com/getmaxun/maxun/pull/1067) - fix(runs): lazy load run output details. _(15.6k stars)_
+- [ClementTsang/bottom #2074](https://github.com/ClementTsang/bottom/pull/2074) - Treat uppercase Q as quit shortcut. _(13.4k stars)_
+- [statsmodels/statsmodels #9805](https://github.com/statsmodels/statsmodels/pull/9805) - BUG: honor MixedLM summary title. _(11.4k stars)_
 
 **Open / Under Review**
 
-- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(105.1k stars)_
+- [axios/axios #10928](https://github.com/axios/axios/pull/10928) - fix(fetch): align timeout errors with other adapters. _(109.1k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(105.4k stars)_
 - [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - fix(lsp): deduplicate location results. _(99.8k stars)_
-- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(88.2k stars)_
 - [nestjs/nest #17009](https://github.com/nestjs/nest/pull/17009) - fix(core): reset dependency-tree cache on metadata changes. _(75.6k stars)_
 - [caddyserver/caddy #7766](https://github.com/caddyserver/caddy/pull/7766) - caddyhttp: let dotted dynamic placeholders fall through. _(72.7k stars)_
 - [socketio/socket.io #5501](https://github.com/socketio/socket.io/pull/5501) - fix(engine.io-client): preserve caller transport options. _(63.1k stars)_
