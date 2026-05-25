@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [getmaxun/maxun #1067](https://github.com/getmaxun/maxun/pull/1067) - fix(runs): lazy load run output details. _(15.6k stars)_
-- [ClementTsang/bottom #2074](https://github.com/ClementTsang/bottom/pull/2074) - Treat uppercase Q as quit shortcut. _(13.4k stars)_
-- [statsmodels/statsmodels #9805](https://github.com/statsmodels/statsmodels/pull/9805) - BUG: honor MixedLM summary title. _(11.4k stars)_
+- [TanStack/query #10750](https://github.com/TanStack/query/pull/10750) - Fix devtools query rows with mutable keys. _(49.5k stars)_
+- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.5k stars)_
+- [locustio/locust #3416](https://github.com/locustio/locust/pull/3416) - docs: guard custom web routes without web UI. _(27.8k stars)_
 
 **Open / Under Review**
 
-- [axios/axios #10928](https://github.com/axios/axios/pull/10928) - fix(fetch): align timeout errors with other adapters. _(109.1k stars)_
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(105.4k stars)_
-- [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - fix(lsp): deduplicate location results. _(99.8k stars)_
-- [nestjs/nest #17009](https://github.com/nestjs/nest/pull/17009) - fix(core): reset dependency-tree cache on metadata changes. _(75.6k stars)_
-- [caddyserver/caddy #7766](https://github.com/caddyserver/caddy/pull/7766) - caddyhttp: let dotted dynamic placeholders fall through. _(72.7k stars)_
-- [socketio/socket.io #5501](https://github.com/socketio/socket.io/pull/5501) - fix(engine.io-client): preserve caller transport options. _(63.1k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(125.0k stars)_
+- [kubernetes/kubernetes #139118](https://github.com/kubernetes/kubernetes/pull/139118) - Handle cancelled pod sandbox creation. _(122.5k stars)_
+- [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - docs(lsp): document on_list deduplication. _(99.8k stars)_
+- [neovim/neovim #39843](https://github.com/neovim/neovim/pull/39843) - fix(ex_cmds): improve E77 glob expansion message. _(99.8k stars)_
+- [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.3k stars)_
+- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.3k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
