@@ -77,17 +77,17 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [nestjs/nest #17009](https://github.com/nestjs/nest/pull/17009) - fix(core): reset dependency-tree cache on metadata changes. _(75.6k stars)_
-- [TanStack/query #10750](https://github.com/TanStack/query/pull/10750) - Fix devtools query rows with mutable keys. _(49.5k stars)_
+- [pnpm/pnpm #11822](https://github.com/pnpm/pnpm/pull/11822) - fix: validate devEngines runtime onFail. _(35.3k stars)_
 - [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.5k stars)_
 
 **Open / Under Review**
 
-- [kubernetes/kubernetes #139118](https://github.com/kubernetes/kubernetes/pull/139118) - Handle cancelled pod sandbox creation. _(122.5k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(125.4k stars)_
 - [shadcn-ui/ui #10721](https://github.com/shadcn-ui/ui/pull/10721) - fix(toggle-group): preserve segmented zero spacing. _(115.1k stars)_
+- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(106.3k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(106.3k stars)_
 - [neovim/neovim #39843](https://github.com/neovim/neovim/pull/39843) - fix(ex_cmds): improve E77 glob expansion message. _(99.9k stars)_
-- [neovim/neovim #39941](https://github.com/neovim/neovim/pull/39941) - docs(lsp): document on_list deduplication. _(99.9k stars)_
-- [mui/material-ui #48571](https://github.com/mui/material-ui/pull/48571) - [mui-system] Include CustomSystemProps in SystemProps. _(98.4k stars)_
-- [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.6k stars)_
+- [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.5k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
