@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(107.7k stars)_
+- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(107.9k stars)_
 - [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.4k stars)_
 - [socketio/socket.io #5501](https://github.com/socketio/socket.io/pull/5501) - fix(engine.io-client): preserve caller transport options. _(63.1k stars)_
 
 **Open / Under Review**
 
-- [vercel/next.js #94276](https://github.com/vercel/next.js/pull/94276) - Fix Turbopack invalid source map columns. _(139.6k stars)_
-- [vercel/next.js #94275](https://github.com/vercel/next.js/pull/94275) - Improve Turbopack error for external next package symlinks. _(139.6k stars)_
+- [vercel/next.js #94275](https://github.com/vercel/next.js/pull/94275) - Improve Turbopack error for external next package symlinks. _(139.7k stars)_
+- [vercel/next.js #94276](https://github.com/vercel/next.js/pull/94276) - Fix Turbopack invalid source map columns. _(139.7k stars)_
 - [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.4k stars)_
+- [sharkdp/bat #3763](https://github.com/sharkdp/bat/pull/3763) - Avoid reading full binary files during detection. _(59.1k stars)_
+- [prettier/prettier #19267](https://github.com/prettier/prettier/pull/19267) - fix(mdx): keep line-start inline HTML in paragraphs. _(51.9k stars)_
 - [etcd-io/etcd #21862](https://github.com/etcd-io/etcd/pull/21862) - etcdserver: allow defrag on learner members. _(51.8k stars)_
-- [pandas-dev/pandas #65761](https://github.com/pandas-dev/pandas/pull/65761) - PERF: limit ADBC table existence metadata. _(48.9k stars)_
-- [llvm/llvm-project #199412](https://github.com/llvm/llvm-project/pull/199412) - [AArch64] Fix v3f32 stack argument lowering. _(38.6k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
