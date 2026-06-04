@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [github/spec-kit #2679](https://github.com/github/spec-kit/pull/2679) - Share skills hook note post-processing. _(107.9k stars)_
-- [mermaid-js/mermaid #7751](https://github.com/mermaid-js/mermaid/pull/7751) - fix: render state diagram click tooltips. _(88.4k stars)_
-- [socketio/socket.io #5501](https://github.com/socketio/socket.io/pull/5501) - fix(engine.io-client): preserve caller transport options. _(63.1k stars)_
+- [nexu-io/open-design #3615](https://github.com/nexu-io/open-design/pull/3615) - Fix saved comment marker order after save. _(58.4k stars)_
+- [chubin/wttr.in #1265](https://github.com/chubin/wttr.in/pull/1265) - Fix one-line precipitation units in imperial formats. _(29.8k stars)_
+- [plotly/dash #3792](https://github.com/plotly/dash/pull/3792) - Fix DataTable conditional style typing. _(24.2k stars)_
 
 **Open / Under Review**
 
-- [vercel/next.js #94275](https://github.com/vercel/next.js/pull/94275) - Improve Turbopack error for external next package symlinks. _(139.7k stars)_
-- [vercel/next.js #94276](https://github.com/vercel/next.js/pull/94276) - Fix Turbopack invalid source map columns. _(139.7k stars)_
-- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.4k stars)_
-- [sharkdp/bat #3763](https://github.com/sharkdp/bat/pull/3763) - Avoid reading full binary files during detection. _(59.1k stars)_
-- [prettier/prettier #19267](https://github.com/prettier/prettier/pull/19267) - fix(mdx): keep line-start inline HTML in paragraphs. _(51.9k stars)_
-- [etcd-io/etcd #21862](https://github.com/etcd-io/etcd/pull/21862) - etcdserver: allow defrag on learner members. _(51.8k stars)_
+- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(187.6k stars)_
+- [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(174.3k stars)_
+- [louislam/uptime-kuma #7479](https://github.com/louislam/uptime-kuma/pull/7479) - fix: reject OAuth tokens without token_type. _(87.6k stars)_
+- [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.6k stars)_
+- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.5k stars)_
+- [hakimel/reveal.js #3910](https://github.com/hakimel/reveal.js/pull/3910) - Fix markdown fragment targets for formatted elements. _(71.6k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
