@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [nexu-io/open-design #3615](https://github.com/nexu-io/open-design/pull/3615) - Fix saved comment marker order after save. _(58.4k stars)_
-- [chubin/wttr.in #1265](https://github.com/chubin/wttr.in/pull/1265) - Fix one-line precipitation units in imperial formats. _(29.8k stars)_
-- [plotly/dash #3792](https://github.com/plotly/dash/pull/3792) - Fix DataTable conditional style typing. _(24.2k stars)_
+- [TryGhost/Ghost #28358](https://github.com/TryGhost/Ghost/pull/28358) - Include site title in members export filename. _(53.8k stars)_
+- [nushell/nushell #18340](https://github.com/nushell/nushell/pull/18340) - Fix ANSI-aware truncation in `input list` (#18310). _(39.7k stars)_
+- [filebrowser/filebrowser #5978](https://github.com/filebrowser/filebrowser/pull/5978) - fix: await copy move conflict detection. _(35.0k stars)_
 
 **Open / Under Review**
 
-- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(187.6k stars)_
-- [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(174.3k stars)_
-- [louislam/uptime-kuma #7479](https://github.com/louislam/uptime-kuma/pull/7479) - fix: reject OAuth tokens without token_type. _(87.6k stars)_
-- [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.6k stars)_
-- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.5k stars)_
-- [hakimel/reveal.js #3910](https://github.com/hakimel/reveal.js/pull/3910) - Fix markdown fragment targets for formatted elements. _(71.6k stars)_
+- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(173.2k stars)_
+- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(143.9k stars)_
+- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(123.3k stars)_
+- [Comfy-Org/ComfyUI #14278](https://github.com/Comfy-Org/ComfyUI/pull/14278) - Fix /view Content-Disposition headers. _(115.8k stars)_
+- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(106.9k stars)_
+- [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(106.9k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
