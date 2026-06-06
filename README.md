@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(173.2k stars)_
-- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(143.9k stars)_
-- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(123.3k stars)_
-- [Comfy-Org/ComfyUI #14278](https://github.com/Comfy-Org/ComfyUI/pull/14278) - Fix /view Content-Disposition headers. _(115.8k stars)_
-- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(106.9k stars)_
-- [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(106.9k stars)_
+- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(123.5k stars)_
+- [Comfy-Org/ComfyUI #14278](https://github.com/Comfy-Org/ComfyUI/pull/14278) - Fix /view Content-Disposition headers. _(115.9k stars)_
+- [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(107.0k stars)_
+- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.0k stars)_
+- [microsoft/terminal #20294](https://github.com/microsoft/terminal/pull/20294) - Polish command-line help dialog formatting. _(103.5k stars)_
+- [nvbn/thefuck #1600](https://github.com/nvbn/thefuck/pull/1600) - Handle denied process exe lookup in rerun. _(97.3k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
