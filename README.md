@@ -76,17 +76,17 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [Eugeny/tabby #11327](https://github.com/Eugeny/tabby/pull/11327) - Make keyboard-interactive auth URLs clickable. _(72.0k stars)_
-- [TryGhost/Ghost #28358](https://github.com/TryGhost/Ghost/pull/28358) - Include site title in members export filename. _(53.8k stars)_
-- [nushell/nushell #18340](https://github.com/nushell/nushell/pull/18340) - Fix ANSI-aware truncation in `input list` (#18310). _(39.7k stars)_
+- [Eugeny/tabby #11327](https://github.com/Eugeny/tabby/pull/11327) - Make keyboard-interactive auth URLs clickable. _(72.1k stars)_
+- [TryGhost/Ghost #28358](https://github.com/TryGhost/Ghost/pull/28358) - Include site title in members export filename. _(53.9k stars)_
+- [vuejs/core #14914](https://github.com/vuejs/core/pull/14914) - fix(watch): trigger immediate callback for empty sources (fix #14898). _(53.8k stars)_
 
 **Open / Under Review**
 
-- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(173.7k stars)_
+- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(173.8k stars)_
 - [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.7k stars)_
 - [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.0k stars)_
 - [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(107.0k stars)_
-- [microsoft/terminal #20294](https://github.com/microsoft/terminal/pull/20294) - Polish command-line help dialog formatting. _(103.5k stars)_
+- [microsoft/terminal #20294](https://github.com/microsoft/terminal/pull/20294) - Polish command-line help dialog formatting. _(103.6k stars)_
 - [nvbn/thefuck #1600](https://github.com/nvbn/thefuck/pull/1600) - Handle denied process exe lookup in rerun. _(97.3k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
