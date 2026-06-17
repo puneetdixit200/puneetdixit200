@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.4k stars)_
+- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(108.0k stars)_
+- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.5k stars)_
 - [Eugeny/tabby #11327](https://github.com/Eugeny/tabby/pull/11327) - Make keyboard-interactive auth URLs clickable. _(72.2k stars)_
-- [vuejs/core #14914](https://github.com/vuejs/core/pull/14914) - fix(watch): trigger immediate callback for empty sources (fix #14898). _(53.8k stars)_
 
 **Open / Under Review**
 
-- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(174.3k stars)_
-- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(107.9k stars)_
-- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.1k stars)_
-- [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(107.1k stars)_
+- [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(174.4k stars)_
+- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.2k stars)_
+- [denoland/deno #34827](https://github.com/denoland/deno/pull/34827) - fix(cache): allow no-remote to read vendored modules. _(107.2k stars)_
 - [microsoft/terminal #20294](https://github.com/microsoft/terminal/pull/20294) - Polish command-line help dialog formatting. _(103.6k stars)_
 - [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.7k stars)_
+- [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.7k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
