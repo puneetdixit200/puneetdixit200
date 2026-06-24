@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(127.3k stars)_
-- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(108.2k stars)_
-- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.6k stars)_
+- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(127.5k stars)_
+- [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(108.3k stars)_
+- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.7k stars)_
 
 **Open / Under Review**
 
 - [ollama/ollama #16502](https://github.com/ollama/ollama/pull/16502) - cmake: build llama UI embedder for host arch. _(174.8k stars)_
-- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(146.2k stars)_
-- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.2k stars)_
+- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(146.4k stars)_
+- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.3k stars)_
 - [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(88.8k stars)_
-- [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(71.4k stars)_
-- [ansible/ansible #87063](https://github.com/ansible/ansible/pull/87063) - Fix ansible_connection mutation between loop items. _(69.0k stars)_
+- [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(73.5k stars)_
+- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.4k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
