@@ -76,14 +76,14 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(128.2k stars)_
+- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(128.3k stars)_
 - [tauri-apps/tauri #15427](https://github.com/tauri-apps/tauri/pull/15427) - fix(cli): respect src/bin required-features (fix: #15325). _(108.4k stars)_
-- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.7k stars)_
+- [neovim/neovim #39830](https://github.com/neovim/neovim/pull/39830) - fix(defaults): avoid startup background OptionSet. _(100.8k stars)_
 
 **Open / Under Review**
 
-- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(146.7k stars)_
-- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.3k stars)_
+- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(146.8k stars)_
+- [denoland/deno #34835](https://github.com/denoland/deno/pull/34835) - fix(cli): include config file in invalid workspace version error. _(107.4k stars)_
 - [microsoft/terminal #20294](https://github.com/microsoft/terminal/pull/20294) - Polish command-line help dialog formatting. _(103.7k stars)_
 - [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.4k stars)_
 - [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(71.4k stars)_
