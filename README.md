@@ -76,7 +76,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(130.8k stars)_
+- [clash-verge-rev/clash-verge-rev #7215](https://github.com/clash-verge-rev/clash-verge-rev/pull/7215) - fix: restore default size for collapsed window state. _(130.9k stars)_
 - [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(73.8k stars)_
 - [freeCodeCamp/devdocs #2695](https://github.com/freeCodeCamp/devdocs/pull/2695) - Fix plus decoding in URL search hashes. _(39.2k stars)_
 
@@ -86,8 +86,8 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [nvm-sh/nvm #3852](https://github.com/nvm-sh/nvm/pull/3852) - [Fix] Use default alias in nvm-exec fallback. _(94.1k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.9k stars)_
 - [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.2k stars)_
-- [ansible/ansible #87063](https://github.com/ansible/ansible/pull/87063) - Fix ansible_connection mutation between loop items. _(69.5k stars)_
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.2k stars)_
+- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(58.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
