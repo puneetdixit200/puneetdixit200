@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(148.7k stars)_
+- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(148.9k stars)_
 - [nvm-sh/nvm #3852](https://github.com/nvm-sh/nvm/pull/3852) - [Fix] Use default alias in nvm-exec fallback. _(94.1k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.9k stars)_
-- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.2k stars)_
+- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.3k stars)_
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.2k stars)_
-- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(58.8k stars)_
+- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(58.9k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
