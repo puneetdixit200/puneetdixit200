@@ -77,17 +77,17 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(73.9k stars)_
-- [lerna/lerna #4365](https://github.com/lerna/lerna/pull/4365) - test: cover prerelease message interpolation. _(36.1k stars)_
+- [lerna/lerna #4365](https://github.com/lerna/lerna/pull/4365) - test: cover prerelease message interpolation. _(36.0k stars)_
 - [zeromicro/go-zero #5627](https://github.com/zeromicro/go-zero/pull/5627) - fix(goctl): include nested client aliases. _(33.2k stars)_
 
 **Open / Under Review**
 
-- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(149.3k stars)_
+- [langgenius/dify #37059](https://github.com/langgenius/dify/pull/37059) - fix(weaviate): return BM25 score metadata. _(149.4k stars)_
 - [nvm-sh/nvm #3852](https://github.com/nvm-sh/nvm/pull/3852) - [Fix] Use default alias in nvm-exec fallback. _(94.2k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.9k stars)_
-- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.3k stars)_
+- [daytonaio/daytona #4928](https://github.com/daytonaio/daytona/pull/4928) - fix(sdk-typescript): deserialize snapshot date fields. _(72.2k stars)_
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.2k stars)_
-- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(58.9k stars)_
+- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(59.0k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
