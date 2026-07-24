@@ -87,7 +87,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.2k stars)_
 - [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(59.0k stars)_
 - [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.0k stars)_
-- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(54.6k stars)_
+- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(54.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
