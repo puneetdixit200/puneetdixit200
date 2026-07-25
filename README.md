@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [apache/superset #40200](https://github.com/apache/superset/pull/40200) - fix(bigquery): preserve catalog in partition metadata lookup. _(73.9k stars)_
 - [lerna/lerna #4365](https://github.com/lerna/lerna/pull/4365) - test: cover prerelease message interpolation. _(36.1k stars)_
 - [python-poetry/poetry #10916](https://github.com/python-poetry/poetry/pull/10916) - Use configured env for activation command. _(34.3k stars)_
+- [python-poetry/poetry #10917](https://github.com/python-poetry/poetry/pull/10917) - Resolve relative direct URLs for local sources. _(34.3k stars)_
 
 **Open / Under Review**
 
 - [nvm-sh/nvm #3852](https://github.com/nvm-sh/nvm/pull/3852) - [Fix] Use default alias in nvm-exec fallback. _(94.2k stars)_
-- [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(88.9k stars)_
-- [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.2k stars)_
-- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(59.0k stars)_
+- [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.0k stars)_
+- [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.3k stars)_
+- [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(59.1k stars)_
 - [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.0k stars)_
-- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(54.8k stars)_
+- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(54.9k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
