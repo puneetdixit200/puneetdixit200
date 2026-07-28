@@ -86,8 +86,8 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.0k stars)_
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.3k stars)_
 - [starship/starship #7493](https://github.com/starship/starship/pull/7493) - fix(bash): clear status after empty command. _(59.1k stars)_
-- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.0k stars)_
-- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(55.0k stars)_
+- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.1k stars)_
+- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(55.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
