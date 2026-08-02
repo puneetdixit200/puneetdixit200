@@ -86,8 +86,8 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.0k stars)_
 - [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.8k stars)_
 - [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.3k stars)_
-- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.1k stars)_
-- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(55.2k stars)_
+- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.2k stars)_
+- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(55.3k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
