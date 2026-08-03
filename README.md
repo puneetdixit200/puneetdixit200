@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [nvm-sh/nvm #3852](https://github.com/nvm-sh/nvm/pull/3852) - [Fix] Use default alias in nvm-exec fallback. _(94.3k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.0k stars)_
 - [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.8k stars)_
-- [lodash/lodash #6229](https://github.com/lodash/lodash/pull/6229) - Fix cloneDeep Map key cloning. _(61.3k stars)_
 - [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.2k stars)_
-- [jellyfin/jellyfin #17023](https://github.com/jellyfin/jellyfin/pull/17023) - Include resumable additional video parts. _(55.3k stars)_
+- [pandas-dev/pandas #65713](https://github.com/pandas-dev/pandas/pull/65713) - BUG: handle chained Path division with Arrow strings. _(49.4k stars)_
+- [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
+- [ManimCommunity/manim #4766](https://github.com/ManimCommunity/manim/pull/4766) - Honor updater suspension in Create animations. _(39.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
