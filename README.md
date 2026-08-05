@@ -85,9 +85,9 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.0k stars)_
 - [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.8k stars)_
 - [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.2k stars)_
-- [pandas-dev/pandas #65713](https://github.com/pandas-dev/pandas/pull/65713) - BUG: handle chained Path division with Arrow strings. _(49.4k stars)_
 - [serverless/serverless #13628](https://github.com/serverless/serverless/pull/13628) - fix: include esbuild build output assets in packages. _(46.9k stars)_
 - [ManimCommunity/manim #4766](https://github.com/ManimCommunity/manim/pull/4766) - Honor updater suspension in Create animations. _(39.9k stars)_
+- [fastify/fastify #6750](https://github.com/fastify/fastify/pull/6750) - fix: allow pino logger instance assignment. _(36.9k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
