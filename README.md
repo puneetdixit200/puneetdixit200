@@ -76,18 +76,18 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
+- [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
 - [python-poetry/poetry #10916](https://github.com/python-poetry/poetry/pull/10916) - Use configured env for activation command. _(34.3k stars)_
 - [python-poetry/poetry #10917](https://github.com/python-poetry/poetry/pull/10917) - Resolve relative direct URLs for local sources. _(34.3k stars)_
-- [tabler/tabler-icons #1538](https://github.com/tabler/tabler-icons/pull/1538) - fix: correct flip icon orientations. _(21.3k stars)_
 
 **Open / Under Review**
 
-- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.3k stars)_
+- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.4k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.1k stars)_
 - [anuraghazra/github-readme-stats #4893](https://github.com/anuraghazra/github-readme-stats/pull/4893) - fix: count reviewed PRs across all time. _(79.8k stars)_
-- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.2k stars)_
+- [go-gitea/gitea #37997](https://github.com/go-gitea/gitea/pull/37997) - fix: hide private reviewer suggestions from restricted users. _(57.3k stars)_
 - [serverless/serverless #13628](https://github.com/serverless/serverless/pull/13628) - fix: include esbuild build output assets in packages. _(46.9k stars)_
-- [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
+- [ManimCommunity/manim #4766](https://github.com/ManimCommunity/manim/pull/4766) - Honor updater suspension in Create animations. _(39.9k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
