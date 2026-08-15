@@ -78,7 +78,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 - [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
 - [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.3k stars)_
-- [lemon24/reader #399](https://github.com/lemon24/reader/pull/399) - Add --json option to list CLI commands. _(549 stars)_
+- [highlightjs/highlight.js #4399](https://github.com/highlightjs/highlight.js/pull/4399) - Fix C++ function highlighting for keyword prefixes. _(25.0k stars)_
 
 **Open / Under Review**
 
@@ -86,8 +86,8 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.1k stars)_
 - [serverless/serverless #13628](https://github.com/serverless/serverless/pull/13628) - fix: include esbuild build output assets in packages. _(46.9k stars)_
 - [ManimCommunity/manim #4766](https://github.com/ManimCommunity/manim/pull/4766) - Honor updater suspension in Create animations. _(40.2k stars)_
-- [fastify/fastify #6750](https://github.com/fastify/fastify/pull/6750) - fix: allow pino logger instance assignment. _(37.0k stars)_
 - [AdguardTeam/AdGuardHome #8413](https://github.com/AdguardTeam/AdGuardHome/pull/8413) - Fix DNS rewrite CNAMEs for DHCP hostnames. _(36.1k stars)_
+- [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
