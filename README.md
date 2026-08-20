@@ -82,7 +82,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.4k stars)_
+- [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.5k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.1k stars)_
 - [serverless/serverless #13628](https://github.com/serverless/serverless/pull/13628) - fix: include esbuild build output assets in packages. _(46.9k stars)_
 - [AdguardTeam/AdGuardHome #8413](https://github.com/AdguardTeam/AdGuardHome/pull/8413) - Fix DNS rewrite CNAMEs for DHCP hostnames. _(36.2k stars)_
