@@ -78,7 +78,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 - [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
 - [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.4k stars)_
-- [highlightjs/highlight.js #4399](https://github.com/highlightjs/highlight.js/pull/4399) - Fix C++ function highlighting for keyword prefixes. _(25.0k stars)_
+- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.8k stars)_
 
 **Open / Under Review**
 
