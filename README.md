@@ -77,12 +77,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
-- [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.4k stars)_
+- [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.5k stars)_
 - [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.8k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(176.6k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(176.8k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.6k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.1k stars)_
 - [serverless/serverless #13628](https://github.com/serverless/serverless/pull/13628) - fix: include esbuild build output assets in packages. _(46.9k stars)_
