@@ -82,7 +82,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.1k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.3k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.6k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.1k stars)_
 - [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.6k stars)_
