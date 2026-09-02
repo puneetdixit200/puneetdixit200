@@ -78,11 +78,11 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 - [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
 - [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.5k stars)_
-- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.8k stars)_
+- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.9k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.5k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.7k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.7k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
 - [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.6k stars)_
