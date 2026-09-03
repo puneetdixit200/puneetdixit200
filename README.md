@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.7k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.9k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.7k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
+- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(57.9k stars)_
 - [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.6k stars)_
 - [AdguardTeam/AdGuardHome #8413](https://github.com/AdguardTeam/AdGuardHome/pull/8413) - Fix DNS rewrite CNAMEs for DHCP hostnames. _(36.6k stars)_
-- [koajs/koa #1977](https://github.com/koajs/koa/pull/1977) - fix: throw koa http errors from ctx.assert. _(35.7k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
