@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(177.9k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(178.1k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.7k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
-- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(57.9k stars)_
-- [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.6k stars)_
-- [AdguardTeam/AdGuardHome #8413](https://github.com/AdguardTeam/AdGuardHome/pull/8413) - Fix DNS rewrite CNAMEs for DHCP hostnames. _(36.6k stars)_
+- [rtk-ai/rtk #2276](https://github.com/rtk-ai/rtk/pull/2276) - fix(git): preserve patch output for log -p. _(78.5k stars)_
+- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(58.0k stars)_
+- [metabase/metabase #75238](https://github.com/metabase/metabase/pull/75238) - Fix section layout preview key warning. _(49.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
