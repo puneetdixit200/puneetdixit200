@@ -78,15 +78,15 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 - [hexojs/hexo #5782](https://github.com/hexojs/hexo/pull/5782) - fix: reprocess future posts after publish date. _(41.8k stars)_
 - [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.5k stars)_
-- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.9k stars)_
+- [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(28.9k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(178.4k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(179.1k stars)_
 - [gohugoio/hugo #14927](https://github.com/gohugoio/hugo/pull/14927) - Fix automatic summary container balancing. _(89.7k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
-- [rtk-ai/rtk #2276](https://github.com/rtk-ai/rtk/pull/2276) - fix(git): preserve patch output for log -p. _(79.0k stars)_
-- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(58.1k stars)_
+- [rtk-ai/rtk #2276](https://github.com/rtk-ai/rtk/pull/2276) - fix(git): preserve patch output for log -p. _(79.2k stars)_
+- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(58.2k stars)_
 - [metabase/metabase #75238](https://github.com/metabase/metabase/pull/75238) - Fix section layout preview key warning. _(49.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
