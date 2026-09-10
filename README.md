@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(182.0k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(182.3k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
-- [rtk-ai/rtk #2276](https://github.com/rtk-ai/rtk/pull/2276) - fix(git): preserve patch output for log -p. _(79.6k stars)_
-- [BerriAI/litellm #29653](https://github.com/BerriAI/litellm/pull/29653) - fix(websearch): allow providers to skip short-circuit. _(58.3k stars)_
-- [metabase/metabase #75238](https://github.com/metabase/metabase/pull/75238) - Fix section layout preview key warning. _(49.1k stars)_
+- [rtk-ai/rtk #2276](https://github.com/rtk-ai/rtk/pull/2276) - fix(git): preserve patch output for log -p. _(79.7k stars)_
+- [metabase/metabase #75238](https://github.com/metabase/metabase/pull/75238) - Fix section layout preview key warning. _(49.2k stars)_
 - [fastify/fastify #6750](https://github.com/fastify/fastify/pull/6750) - fix: allow pino logger instance assignment. _(37.1k stars)_
+- [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(36.8k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
