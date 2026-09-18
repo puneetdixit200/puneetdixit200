@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(185.0k stars)_
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(137.5k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(185.2k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(137.7k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
 - [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(72.0k stars)_
 - [chartjs/Chart.js #12264](https://github.com/chartjs/Chart.js/pull/12264) - fix(types): allow skipNull on bar datasets. _(67.7k stars)_
-- [metabase/metabase #75238](https://github.com/metabase/metabase/pull/75238) - Fix section layout preview key warning. _(49.3k stars)_
+- [fastify/fastify #6750](https://github.com/fastify/fastify/pull/6750) - fix: allow pino logger instance assignment. _(37.1k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
