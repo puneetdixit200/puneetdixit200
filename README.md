@@ -77,15 +77,15 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [docsifyjs/docsify #2740](https://github.com/docsifyjs/docsify/pull/2740) - fix(a11y): preserve sidebar focus after navigation. _(31.5k stars)_
-- [micro-editor/micro #4116](https://github.com/micro-editor/micro/pull/4116) - fix: parse plugin repo metadata as JSON5. _(29.6k stars)_
 - [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(28.9k stars)_
+- [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(28.9k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(185.8k stars)_
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(138.0k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(186.1k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(138.1k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.2k stars)_
-- [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(72.0k stars)_
+- [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(72.1k stars)_
 - [chartjs/Chart.js #12264](https://github.com/chartjs/Chart.js/pull/12264) - fix(types): allow skipNull on bar datasets. _(67.7k stars)_
 - [fastify/fastify #6750](https://github.com/fastify/fastify/pull/6750) - fix: allow pino logger instance assignment. _(37.2k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
