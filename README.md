@@ -82,12 +82,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(187.5k stars)_
-- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(139.3k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(187.7k stars)_
+- [github/spec-kit #2637](https://github.com/github/spec-kit/pull/2637) - fix: keep --ai as a supported init alias. _(139.5k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.3k stars)_
 - [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(72.1k stars)_
 - [chartjs/Chart.js #12264](https://github.com/chartjs/Chart.js/pull/12264) - fix(types): allow skipNull on bar datasets. _(67.7k stars)_
-- [AdguardTeam/AdGuardHome #8415](https://github.com/AdguardTeam/AdGuardHome/pull/8415) - Fix rate-limit whitelist handling. _(37.1k stars)_
+- [etcd-io/etcd #21862](https://github.com/etcd-io/etcd/pull/21862) - etcdserver: allow defrag on learner members. _(52.3k stars)_
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
