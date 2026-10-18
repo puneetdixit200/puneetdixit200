@@ -76,14 +76,14 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
-- [docsifyjs/docsify #2740](https://github.com/docsifyjs/docsify/pull/2740) - fix(a11y): preserve sidebar focus after navigation. _(31.5k stars)_
+- [docsifyjs/docsify #2740](https://github.com/docsifyjs/docsify/pull/2740) - fix(a11y): preserve sidebar focus after navigation. _(31.6k stars)_
 - [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(29.0k stars)_
 - [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(29.0k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(190.7k stars)_
-- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.0k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(190.8k stars)_
+- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.1k stars)_
 - [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(174.9k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.4k stars)_
 - [protocolbuffers/protobuf #27804](https://github.com/protocolbuffers/protobuf/pull/27804) - Avoid bash for protoc authenticity checks on Windows. _(72.1k stars)_
