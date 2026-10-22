@@ -82,7 +82,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(191.4k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(191.6k stars)_
 - [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.1k stars)_
 - [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(175.0k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.4k stars)_
