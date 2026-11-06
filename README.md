@@ -82,7 +82,7 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(194.0k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(194.1k stars)_
 - [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.3k stars)_
 - [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(175.0k stars)_
 - [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(91.0k stars)_
