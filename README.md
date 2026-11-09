@@ -77,12 +77,12 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 **Merged PRs**
 
 - [docsifyjs/docsify #2740](https://github.com/docsifyjs/docsify/pull/2740) - fix(a11y): preserve sidebar focus after navigation. _(31.6k stars)_
-- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(29.1k stars)_
-- [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(29.1k stars)_
+- [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(29.2k stars)_
+- [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(29.2k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(194.4k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(194.5k stars)_
 - [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.4k stars)_
 - [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(175.0k stars)_
 - [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(91.0k stars)_
