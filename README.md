@@ -76,14 +76,14 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 **Merged PRs**
 
+- [chartjs/Chart.js #12264](https://github.com/chartjs/Chart.js/pull/12264) - fix(types): allow skipNull on bar datasets. _(67.8k stars)_
 - [docsifyjs/docsify #2740](https://github.com/docsifyjs/docsify/pull/2740) - fix(a11y): preserve sidebar focus after navigation. _(31.6k stars)_
 - [celery/celery #10321](https://github.com/celery/celery/pull/10321) - Skip empty groups in chains. _(29.3k stars)_
-- [celery/celery #10324](https://github.com/celery/celery/pull/10324) - Handle DST gaps in make_aware. _(29.3k stars)_
 
 **Open / Under Review**
 
-- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(197.7k stars)_
-- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.8k stars)_
+- [microsoft/markitdown #1902](https://github.com/microsoft/markitdown/pull/1902) - Preserve spaces in positioned PDF text. _(198.0k stars)_
+- [ohmyzsh/ohmyzsh #13790](https://github.com/ohmyzsh/ohmyzsh/pull/13790) - fix(updater): sync dependency deletions. _(190.9k stars)_
 - [twbs/bootstrap #42466](https://github.com/twbs/bootstrap/pull/42466) - Fix aria-pressed initialization for toggle buttons. _(175.1k stars)_
 - [mermaid-js/mermaid #7733](https://github.com/mermaid-js/mermaid/pull/7733) - feat(gantt): support configurable workday hours for hour durations. _(91.2k stars)_
 - [gin-gonic/gin #4659](https://github.com/gin-gonic/gin/pull/4659) - fix: avoid raw path redirect loops. _(89.6k stars)_
